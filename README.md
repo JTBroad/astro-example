@@ -8,7 +8,7 @@
 - Add tailwind  `npx astro add tailwind`
 - Axios https://axios-http.com/  `npm install axios`
 ## Other Nice To Haves
-- Add daisyui (pick theme and add it) https://daisyui.com/
+- Add daisyui (pick theme and add it) https://daisyui.com/  `npm install daisyui`
 - Add mobx ("useDefineForClassFields": true in tsconfig.json) `npm install mobx mobx-react`
 
 

@@ -1,9 +1,9 @@
 # Setting Up
 ## Mandatory Pieces
-- make sure to have nodejs installed on your system
+- make sure to have nodejs installed on your system `node -v` to see what version you have installed (> 16 hopefully)
 - Open folder in vs code
 - Add Astro vs code extension https://marketplace.visualstudio.com/items?itemName=astro-build.astro-vscode
-- Initialize Astro project https://docs.astro.build/en/getting-started/
+- Initialize Astro project https://docs.astro.build/en/getting-started/  `npm create astro@latest` and go through cli wizard
 - Add react  `npx astro add react`
 - Add tailwind  `npx astro add tailwind`
 - Axios https://axios-http.com/  `npm install axios`
